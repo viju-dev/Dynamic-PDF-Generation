@@ -1,0 +1,35 @@
+//            //seller content
+//            Paragraph sellerPara = new Paragraph("",mainFont);
+//
+//            Phrase sTitle = new Phrase("Seller\n");
+//            sellerPara.add(sTitle);
+//            Phrase sName = new Phrase(billResponse.getSellerName()+"\n");
+//            sellerPara.add(sName);
+//            Phrase sAddress = new Phrase(billResponse.getSellerAddress()+"\n");
+//            sellerPara.add(sAddress);
+//            Phrase sGst = new Phrase(billResponse.getSellerGstNo()+"\n");
+//            sellerPara.add(sGst);
+//            sellerPara.setAlignment(Element.ALIGN_LEFT);
+//            sellerPara.setIndentationLeft(10);
+//            sellerPara.setIndentationRight(40);
+//            sellerPara.setSpacingAfter(5);
+//            document.add(sellerPara);
+//
+//            //buyer content
+//            Paragraph buyerPara = new Paragraph("",mainFont);
+//
+//            Phrase bTitle = new Phrase("Buyer\n");
+//            buyerPara.add(bTitle);
+//            Phrase bName = new Phrase(billResponse.getBuyerName()+"\n");
+//            buyerPara.add(bName);
+//            Phrase bAddress = new Phrase(billResponse.getBuyerAddress()+"\n");
+//            buyerPara.add(bAddress);
+//            Phrase bGst = new Phrase(billResponse.getBuyerGstNo()+"\n");
+//            buyerPara.add(bGst);
+//            buyerPara.setAlignment(Element.ALIGN_LEFT);
+//            buyerPara.setIndentationLeft(50);
+//            buyerPara.setIndentationRight(10);
+//            buyerPara.setSpacingAfter(5);
+//            document.add(buyerPara);
+
+            //
